@@ -1,7 +1,8 @@
 repo_name: ohimors/rapidpro
 report_id: 79da2960e1c6dd84d2dcb73c5f9ec132
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T00:22:10+00:00'
+timestamp: '2024-01-05T08:47:15+00:00'
 requested_by: nicpottier
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ohimors/rapidpro
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/ohimors/rapidpro
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/rapidpro
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ohimors/rapidpro
   detection_source: Repo Metadata
 - name: Django
   description: The Web framework for perfectionists with deadlines
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/994/4aGjtNQv.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Nic Pottier
   last_updated_on: 2015-04-07 20:33:47.000000000 Z
@@ -66,6 +72,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1075/celery.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -79,7 +86,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: pip-requires.txt
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -91,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/rapidpro
   detection_source: Repo Metadata
 - name: Gunicorn
   description: A Python WSGI HTTP Server for UNIX
@@ -101,7 +109,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1091/gunicorn.png
-  detection_source_url: pip-requires.txt
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -113,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -126,7 +135,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
-  detection_source_url: pip-requires.txt
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -138,6 +147,7 @@ tools:
   category: Monitoring
   sub_category: Exception Monitoring
   image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -149,6 +159,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -160,6 +171,7 @@ tools:
   category: Communications
   sub_category: Voice and SMS
   image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -171,6 +183,7 @@ tools:
   category: Application Utilities
   sub_category: Web Scraping API
   image_url: https://img.stackshare.io/service/4037/no-img-open-source.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -183,6 +196,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
@@ -191,6 +205,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2764/327752.png
+  detection_source_url: https://github.com/ohimors/rapidpro/blob/master/pip-requires.txt
   detection_source: pip-requires.txt
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
