@@ -2,7 +2,7 @@ repo_name: ohimors/rapidpro
 report_id: 79da2960e1c6dd84d2dcb73c5f9ec132
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:15+00:00'
+timestamp: '2024-02-29T18:41:48+00:00'
 requested_by: nicpottier
 provider: github
 branch: master
@@ -140,7 +140,7 @@ tools:
   last_updated_by: Eric Newcomer
   last_updated_on: 2014-12-02 04:48:07.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
